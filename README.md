@@ -4,4 +4,4 @@
 
 
 
-[![Arthur Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrodrigues-dev)](https://github.com/arthurrodrigues-dev/github-readme-stats)
+[![Arthur Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrodrigues-dev&theme=transparent)](https://github.com/arthurrodrigues-dev/github-readme-stats)
