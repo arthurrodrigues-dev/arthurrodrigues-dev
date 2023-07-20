@@ -1,6 +1,6 @@
 <h1> 👋 Hi there! I'm Arthur </h1>
 
-- Back-end development 🚀
+- FullStack development 🚀
 - Currently studying Java and NodeJS ☕
 
 <div>
