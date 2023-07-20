@@ -1,7 +1,7 @@
 <h1> 👋 Hi there! I'm Arthur </h1>
 
 - Back-end development 🚀
-- Currently studying Java ☕
+- Currently studying Java and NodeJS ☕
 
 <div>
   <a href="https://github.com/arthurrodrigues-dev/github-readme-stats">
@@ -18,6 +18,7 @@
   <img align="center" alt="rodrigues-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="rodrigues-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
   <img align="center" alt="rodrigues-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
+  <img align="center" alt="rodrigues-nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="rodrigues-html" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="rodrigues-css3" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="rodrigues-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
