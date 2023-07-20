@@ -18,7 +18,7 @@
   <img align="center" alt="rodrigues-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="rodrigues-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
   <img align="center" alt="rodrigues-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
-  <img align="center" alt="rodrigues-nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="rodrigues-nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="rodrigues-html" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="rodrigues-css3" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="rodrigues-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
@@ -42,6 +42,5 @@
   <p>Since I started to learn programming, I am not able to stop doing it, it is my passion and it is like having fun to me, I am a person who is very consistent and I am learning programming or IT stuff every single day. I am doing computer networks at IFPB, which is something I like. I want to become a Fullstack engineer in the future, but today my focus and goals are in the back-end development with all the Java environment.</p>
 
   <img src="https://github.com/arthurrodrigues-dev/arthurrodrigues-dev/assets/117749096/0d119a57-7d5d-403f-898a-ccfae7afb4fe" width="250" height="250">
-
 </div>
 
