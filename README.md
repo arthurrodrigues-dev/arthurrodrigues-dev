@@ -39,7 +39,7 @@
 
 <div>
   <h2> ☕ About me </h2>
-  <p>Since I started to learn programming, I am not able to stop doing it, it is my passion and it is like having fun to me, I am a person who is very consistent and I am learning programming or IT stuff every single day. I am doing computer networks at IFPB, which is something I like. I want to become a fullstack enginner, I'm currently learning more about front-end development and backend with NodeJS.</p>
+  <p>Since I started to learn programming, I am not able to stop doing it, it is my passion and it is like having fun to me, I am a person who is very consistent and I am learning programming or IT stuff every single day. I am doing computer networks at IFPB, which is something I like. I want to become a fullstack enginner, I'm currently learning more about front-end development and backend with NodeJS</p>
 
   <img src="https://github.com/arthurrodrigues-dev/arthurrodrigues-dev/assets/117749096/0d119a57-7d5d-403f-898a-ccfae7afb4fe" width="250" height="250">
 </div>
