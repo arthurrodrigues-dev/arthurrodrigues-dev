@@ -1,7 +1,7 @@
 <h1> 👋 Hi there! I'm Arthur </h1>
 
 - FullStack development 🚀
-- Currently studying Java and NodeJS ☕
+- Currently studying Front-end development and NodeJS ☕
 
 <div>
   <a href="https://github.com/arthurrodrigues-dev/github-readme-stats">
@@ -27,15 +27,16 @@
   <img  align="center" alt="rodrigues-bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 </div>
 
-<h2> 💻 Frameworks I am about to learn: </h2>
+<h2> 💻 Frameworks I want to learn: </h2>
 
 <div style="display: inline-block">
+
+  <img align="center" alt="rodrigues-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            
+  <img align="center" alt="rodrigues-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   
-<img align="center" alt="rodrigues-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-          
-<img align="center" alt="rodrigues-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-          
-</div
+  <img align="center" alt="rodrigues-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />     
+  </div>
 
 <div>
   <h2> ☕ About me </h2>
