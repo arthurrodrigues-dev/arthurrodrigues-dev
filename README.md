@@ -1,7 +1,7 @@
 <h1> 👋 Hi there! I'm Arthur </h1>
 
 - Fullstack development 🚀
-- Currently studying Front-end development with React and Back-end with Spring Boot 📚
+- Currently studying Front-end development with Angular and Back-end with Spring Boot 📚
 
 <div>
   <a href="https://github.com/arthurrodrigues-dev/github-readme-stats">
