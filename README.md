@@ -7,13 +7,12 @@
 
 <div style="display: inline-block">
   <img src="https://skillicons.dev/icons?i=linux,debian,kali,windows" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" />
-  <img src="https://cdn.simpleicons.org/nmap/4E9BCD" height="50" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" />
+  <img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="50" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" />
+  <img src="https://cdn.simpleicons.org/vmware/607078" height="50" alt="VMware Workstation Pro" />
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="50" />
 </div>
 
