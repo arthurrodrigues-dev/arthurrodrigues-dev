@@ -1,36 +1,27 @@
 <h1> 👋 Hi there! I'm Arthur </h1>
 
-- Cybersecurity, InfoSec, Infrastructure Analyst
+- Cybersecurity | InfoSec | Infrastructure Analyst
 - Currently learning Microsoft Active Directory and Fortinet Services 📚
-
-<div>
-  <a href="https://github.com/arthurrodrigues-dev/github-readme-stats">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrodrigues-dev&show_icons=true&theme=radical"/>
-  </a>
-  <a href="https://github.com/arthurrodrigues-dev/convoychat">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrodrigues-dev&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</div>
 
 <h2> 👩‍💻 Softwares I use: </h2>
 
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medusa-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ncrack-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enum4linux-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,kali,windows" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" />
+  <img src="https://cdn.simpleicons.org/nmap/4E9BCD" height="50" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" />
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="50" />
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="50" />
 </div>
 
 <h2> 💻 I am learning </h2>
 
 <div style="display: inline-block">
-  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />     
+    <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="50" alt="Fortinet" />
+    <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35" alt="Microsoft Active Directory" />
   </div>
 <div>
   
