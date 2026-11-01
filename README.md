@@ -26,7 +26,9 @@
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" alt="Wireshark" />
   <img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
-  <img src="https://cdn.simpleicons.org/zabbix/D40000" height="50" alt="Zabbix" />
+  <img src="https://cdn.simpleicons.org/zabbix/CC2936"
+     height="50"
+     alt="Zabbix" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="50" alt="Grafana" />
 </div>
 
@@ -42,7 +44,9 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="50" alt="Fortinet" />
-  <img src="https://cdn.simpleicons.org/windowsserver/0078D4" height="50" alt="Windows Server" />
+  <img src="https://cdn.simpleicons.org/windowsserver/0078D4"
+     height="50"
+     alt="Windows Server" />
 </div>
 
 **Current focus:**
@@ -71,10 +75,12 @@ I believe that continuous learning, hands-on experience and technical curiosity 
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://github.com/arthurrodrigues-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/arthurrodrigues-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  https://www.linkedin.com/in/arthur-rodrigues-101452284/
+  <a href="https://www.linkedin.com/in/arthur-rodrigues-101452284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 
