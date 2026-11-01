@@ -35,7 +35,7 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="50" alt="Metasploit" />'
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="50" alt="Metasploit" />
   <img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="50" alt="Hack The Box" />
 </div>
