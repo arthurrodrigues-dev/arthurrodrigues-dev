@@ -26,7 +26,7 @@
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50" alt="Cisco" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" alt="Wireshark" />
   <img src="https://nmap.org/images/nmap-logo-64px.svg" height="50" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white"
+  <img src="./assets/icons/zabbix.svg"
      height="50"
      alt="Zabbix" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="50" alt="Grafana" />
@@ -44,7 +44,7 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="50" alt="Fortinet" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"
+  <img src="./assets/icons/windows-server.svg"
      height="50"
      alt="Windows Server" />
 </div>
